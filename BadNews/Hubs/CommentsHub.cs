@@ -1,4 +1,5 @@
 ﻿using System.Threading.Tasks;
+using BadNews.Repositories.Comments;
 using Microsoft.AspNetCore.SignalR;
 
 namespace BadNews.Hubs;
